@@ -22,8 +22,8 @@ jobs:
           personal_token: ${{ secrets.ACTION_TOKEN  }}
           src_branch: master
           src_path: /images/.
-          dst_owner: andkret
-          dst_repo_name: Cookbook
+          dst_owner: gmgniap
+          dst_repo_name: EJN_training
           dst_path: /static/images/
           dst_branch: documentation
           clean: true
@@ -40,8 +40,8 @@ jobs:
           personal_token: ${{ secrets.ACTION_TOKEN  }}
           src_branch: master
           src_path: /sections/.
-          dst_owner: andkret
-          dst_repo_name: Cookbook
+          dst_owner: gmgniap
+          dst_repo_name: EJN_training
           dst_path: /docs/
           dst_branch: documentation
           clean: true
