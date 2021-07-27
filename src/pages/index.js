@@ -43,7 +43,7 @@ function Home() {
             className={styles.mainImage}
             width="300"
             height="400"
-            src="images/CookbookCover.jpg"
+            src="images/chartCover.png"
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
