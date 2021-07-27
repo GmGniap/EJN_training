@@ -1,12 +1,12 @@
 const path = require("path");
 
 module.exports = {
-  title: "THE DATA ENGINEERING COOKBOOK",
-  tagline: "by ANDREAS KRETZ",
-  url: "http://cookbook.learndataengineering.com",
+  title: "EJN Training Curriculum",
+  tagline: "by Thet Paing",
+  url: "https://gmgniap.github.io/EJN_training/",
   baseUrl: "/", // path where website is available
   favicon: "images/CookbookCover.jpg",
-  organizationName: "andkret", // GitHub org/user name.
+  organizationName: "gmgniap", // GitHub org/user name.
   projectName: "Cookbook", // project name i.e repo name of project
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
