@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gmgniap.github.io/blog</id>
-    <title>EJN Training Curriculum Blog</title>
+    <title>Data Journalism Training Curriculum Blog</title>
     <updated>2015-10-25T23:29:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gmgniap.github.io/blog"/>
-    <subtitle>EJN Training Curriculum Blog</subtitle>
-    <icon>https://gmgniap.github.io/images/CookbookCover.jpg</icon>
+    <subtitle>Data Journalism Training Curriculum Blog</subtitle>
+    <icon>https://gmgniap.github.io/images/data.svg</icon>
 </feed>
