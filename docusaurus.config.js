@@ -3,8 +3,8 @@ const path = require("path");
 module.exports = {
   title: "EJN Training Curriculum",
   tagline: "by Thet Paing",
-  url: "https://gmgniap.github.io/",
-  baseUrl: "/EJN_training", // path where website is available
+  url: "https://gmgniap.github.io/EJN_training",
+  baseUrl: "/", // path where website is available
   favicon: "images/CookbookCover.jpg",
   organizationName: "gmgniap", // GitHub org/user name.
   projectName: "Cookbook", // project name i.e repo name of project
