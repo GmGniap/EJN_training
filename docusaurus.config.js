@@ -1,13 +1,13 @@
 const path = require("path");
 
 module.exports = {
-  title: "EJN Training Curriculum",
-  tagline: "by Thet Paing",
+  title: "Data Journalism Training Curriculum",
+  tagline: "by EJN-Thibi Team",
   url: "https://gmgniap.github.io",
   baseUrl: "/EJN_training/", // path where website is available
-  favicon: "images/CookbookCover.jpg",
+  favicon: "images/data.svg",
   organizationName: "gmgniap", // GitHub org/user name.
-  projectName: "Cookbook", // project name i.e repo name of project
+  projectName: "EJN Training", // project name i.e repo name of project
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   themeConfig: {
@@ -20,27 +20,27 @@ module.exports = {
       title: "Data Engineering Cookbook",
       logo: {
         alt: "Site Logo",
-        src: "images/CookbookCover.jpg", // path with respect to static dir
+        src: "images/data.svg", // path with respect to static dir
       },
       items: [
         {
           to: "docs/01-Introduction",
-          label: "Cookbook",
+          label: "Curriculum",
           position: "left",
         },
         {
-          href: "https://learndataengineering.com/",
-          label: "Data Engineering Academy",
+          href: "https://earthjournalism.net/projects/data-journalism-initiative",
+          label: "Earth Journalism Network",
           position: "right",
         },
         {
-          href: "https://medium.com/plumbersofdatascience",
-          label: "Plumbers Of Data Science",
+          href: "https://thibi.co/",
+          label: "Thibi Team Website",
           position: "right",
         },
         {
-          href: "https://github.com/andkret/Cookbook",
-          label: "GitHub",
+          href: "https://github.com/GmGniap/EJN_training",
+          label: "Source Code",
           position: "right",
         },
       ],
@@ -48,7 +48,7 @@ module.exports = {
     footer: {
       style: "light",
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} Andreas Kretz. Built by Kristijan Bakaric with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} EJN. Built by Thet Paing with Docusaurus.`,
     },
     // prism: {
     //   additionalLanguages: ["powerquery", "dax"],
