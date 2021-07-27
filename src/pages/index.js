@@ -41,8 +41,8 @@ function Home() {
         <div className="container">
           <img
             className={styles.mainImage}
-            width="300"
-            height="400"
+            width="700"
+            height="350"
             src="images/chartCover.png"
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
