@@ -24,7 +24,7 @@ module.exports = {
       },
       items: [
         {
-          to: "docs/01-Introduction",
+          to: "docs/Training",
           label: "Curriculum",
           position: "left",
         },
