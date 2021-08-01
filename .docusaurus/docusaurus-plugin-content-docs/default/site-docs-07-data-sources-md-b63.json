@@ -1,0 +1,21 @@
+{
+  "unversionedId": "07-DataSources",
+  "id": "07-DataSources",
+  "isDocsHomePage": false,
+  "title": " ",
+  "description": "100 Plus Data Sources Data Science",
+  "source": "@site/docs/07-DataSources.md",
+  "slug": "/07-DataSources",
+  "permalink": "/EJN_training/docs/07-DataSources",
+  "version": "current",
+  "sidebar_label": "Data Sources",
+  "sidebar": "projectsSidebar",
+  "previous": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/06-BestPracticesCloud"
+  },
+  "next": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/08-InterviewQuestions"
+  }
+}

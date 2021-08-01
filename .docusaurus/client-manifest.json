@@ -1,0 +1,255 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "1": [
+      0,
+      10,
+      16,
+      17,
+      1
+    ],
+    "styles": [
+      1,
+      10,
+      13,
+      14,
+      15,
+      16,
+      17,
+      0
+    ],
+    "@site/docs/03-AdvancedSkills.md": [
+      2
+    ],
+    "@site/docs/06-BestPracticesCloud.md": [
+      3
+    ],
+    "@site/docs/02-BasicSkills.md": [
+      4
+    ],
+    "~docs/default/version-current-metadata-prop-751.json": [
+      5
+    ],
+    "@site/docs/04-HandsOnCourse.md": [
+      6
+    ],
+    "@site/docs/07-DataSources.md": [
+      7
+    ],
+    "@site/docs/09-BooksAndCourses.md": [
+      8
+    ],
+    "@site/docs/08-InterviewQuestions.md": [
+      9
+    ],
+    "@site/src/pages/index.js": [
+      0,
+      1,
+      10
+    ],
+    "@site/docs/05-CaseStudies.md": [
+      11
+    ],
+    "@site/docs/01-Introduction.md": [
+      12
+    ],
+    "@generated/docusaurus.config": [
+      0,
+      14,
+      13
+    ],
+    "main": [
+      0,
+      14,
+      13
+    ],
+    "runtime~main": [
+      0,
+      13,
+      14
+    ],
+    "@theme/DocItem": [
+      0,
+      15
+    ],
+    "@theme/DocPage": [
+      0,
+      1,
+      17
+    ],
+    "@theme/NotFound": [
+      0,
+      1,
+      17
+    ]
+  },
+  "assets": {
+    "0": {
+      "css": [
+        {
+          "file": "assets/css/styles.5ba6ab3f.css",
+          "hash": "d6c057619f30d54b96ba",
+          "publicPath": "/EJN_training/assets/css/styles.5ba6ab3f.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "assets/js/styles.90310086.js",
+          "hash": "d6c057619f30d54b96ba",
+          "publicPath": "/EJN_training/assets/js/styles.90310086.js"
+        }
+      ]
+    },
+    "1": {
+      "js": [
+        {
+          "file": "assets/js/1.e5aa27ea.js",
+          "hash": "be3678eb648e3ea5e1d4",
+          "publicPath": "/EJN_training/assets/js/1.e5aa27ea.js"
+        }
+      ]
+    },
+    "2": {
+      "js": [
+        {
+          "file": "assets/js/0a15610b.d3c3b530.js",
+          "hash": "bece6af9acb2309414e5",
+          "publicPath": "/EJN_training/assets/js/0a15610b.d3c3b530.js"
+        }
+      ]
+    },
+    "3": {
+      "js": [
+        {
+          "file": "assets/js/3fe089e3.9427f91c.js",
+          "hash": "ef352a8bfbdff9294ffc",
+          "publicPath": "/EJN_training/assets/js/3fe089e3.9427f91c.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "assets/js/812cad9d.9fe15a59.js",
+          "hash": "ffb0e3c7082315772f6b",
+          "publicPath": "/EJN_training/assets/js/812cad9d.9fe15a59.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.1e7c0fd3.js",
+          "hash": "d2b475659824323bf6d7",
+          "publicPath": "/EJN_training/assets/js/935f2afb.1e7c0fd3.js"
+        }
+      ]
+    },
+    "6": {
+      "js": [
+        {
+          "file": "assets/js/b42f3af8.7f609a90.js",
+          "hash": "d8753c5e012fdce2eed6",
+          "publicPath": "/EJN_training/assets/js/b42f3af8.7f609a90.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "assets/js/b63d0246.339ab38c.js",
+          "hash": "b2d081114706ae548593",
+          "publicPath": "/EJN_training/assets/js/b63d0246.339ab38c.js"
+        }
+      ]
+    },
+    "8": {
+      "js": [
+        {
+          "file": "assets/js/c02becdf.2dff06c4.js",
+          "hash": "534e1236071ce4ecc82e",
+          "publicPath": "/EJN_training/assets/js/c02becdf.2dff06c4.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "assets/js/c12bc2d7.7df07c9f.js",
+          "hash": "cfad7a3fb07a36e9d29d",
+          "publicPath": "/EJN_training/assets/js/c12bc2d7.7df07c9f.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.9edb8b41.js",
+          "hash": "75a1c0ee868bb5a83a53",
+          "publicPath": "/EJN_training/assets/js/c4f5d8e4.9edb8b41.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "assets/js/d60411c0.b785c7ba.js",
+          "hash": "b64851b616230b7e1364",
+          "publicPath": "/EJN_training/assets/js/d60411c0.b785c7ba.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "assets/js/f5648033.b2b5b964.js",
+          "hash": "e9805da54ab2ce0e8970",
+          "publicPath": "/EJN_training/assets/js/f5648033.b2b5b964.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "assets/js/main.3ae336e2.js",
+          "hash": "5cf34ab944d1d6a1b5a0",
+          "publicPath": "/EJN_training/assets/js/main.3ae336e2.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.fb3073ad.js",
+          "hash": "d730114b9151fb8ac816",
+          "publicPath": "/EJN_training/assets/js/runtime~main.fb3073ad.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "assets/js/15.7d5f9bc6.js",
+          "hash": "005e60d75be6ce0933b9",
+          "publicPath": "/EJN_training/assets/js/15.7d5f9bc6.js"
+        }
+      ]
+    },
+    "17": {
+      "js": [
+        {
+          "file": "assets/js/16.ad0cb513.js",
+          "hash": "acd86673d9e80c534ce6",
+          "publicPath": "/EJN_training/assets/js/16.ad0cb513.js"
+        },
+        {
+          "file": "assets/js/17.b8fd78ce.js",
+          "hash": "8bef1507216bbb6be8e3",
+          "publicPath": "/EJN_training/assets/js/17.b8fd78ce.js"
+        }
+      ]
+    }
+  }
+}

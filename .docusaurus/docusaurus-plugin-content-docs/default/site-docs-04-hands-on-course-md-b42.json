@@ -1,0 +1,21 @@
+{
+  "unversionedId": "04-HandsOnCourse",
+  "id": "04-HandsOnCourse",
+  "isDocsHomePage": false,
+  "title": " ",
+  "description": "Data Engineering Course: Building A Data Platform",
+  "source": "@site/docs/04-HandsOnCourse.md",
+  "slug": "/04-HandsOnCourse",
+  "permalink": "/EJN_training/docs/04-HandsOnCourse",
+  "version": "current",
+  "sidebar_label": "Hands On Course",
+  "sidebar": "projectsSidebar",
+  "previous": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/03-AdvancedSkills"
+  },
+  "next": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/05-CaseStudies"
+  }
+}

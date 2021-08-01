@@ -1,0 +1,21 @@
+{
+  "unversionedId": "05-CaseStudies",
+  "id": "05-CaseStudies",
+  "isDocsHomePage": false,
+  "title": " ",
+  "description": "Case Studies",
+  "source": "@site/docs/05-CaseStudies.md",
+  "slug": "/05-CaseStudies",
+  "permalink": "/EJN_training/docs/05-CaseStudies",
+  "version": "current",
+  "sidebar_label": "Case Studies",
+  "sidebar": "projectsSidebar",
+  "previous": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/04-HandsOnCourse"
+  },
+  "next": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/06-BestPracticesCloud"
+  }
+}

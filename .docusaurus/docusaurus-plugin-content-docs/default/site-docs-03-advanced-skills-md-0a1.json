@@ -1,0 +1,21 @@
+{
+  "unversionedId": "03-AdvancedSkills",
+  "id": "03-AdvancedSkills",
+  "isDocsHomePage": false,
+  "title": " ",
+  "description": "Advanced Data Engineering Skills",
+  "source": "@site/docs/03-AdvancedSkills.md",
+  "slug": "/03-AdvancedSkills",
+  "permalink": "/EJN_training/docs/03-AdvancedSkills",
+  "version": "current",
+  "sidebar_label": "Advanced Skills",
+  "sidebar": "projectsSidebar",
+  "previous": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/02-BasicSkills"
+  },
+  "next": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/04-HandsOnCourse"
+  }
+}

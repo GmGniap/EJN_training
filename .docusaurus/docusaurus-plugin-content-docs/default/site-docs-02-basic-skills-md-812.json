@@ -1,0 +1,21 @@
+{
+  "unversionedId": "02-BasicSkills",
+  "id": "02-BasicSkills",
+  "isDocsHomePage": false,
+  "title": " ",
+  "description": "Basic Data Engineering Skills",
+  "source": "@site/docs/02-BasicSkills.md",
+  "slug": "/02-BasicSkills",
+  "permalink": "/EJN_training/docs/02-BasicSkills",
+  "version": "current",
+  "sidebar_label": "Basic Skills",
+  "sidebar": "projectsSidebar",
+  "previous": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/01-Introduction"
+  },
+  "next": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/03-AdvancedSkills"
+  }
+}

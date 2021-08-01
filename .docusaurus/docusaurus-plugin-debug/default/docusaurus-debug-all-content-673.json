@@ -1,0 +1,278 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/EJN_training/docs",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\Thibi\\EJN_training\\sidebars.js",
+          "docsDirPath": "D:\\Thibi\\EJN_training\\docs",
+          "docsDirPathLocalized": "D:\\Thibi\\EJN_training\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "01-Introduction",
+          "sidebars": {
+            "projectsSidebar": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Data Engineering",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "01-Introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "02-BasicSkills"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "03-AdvancedSkills"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "04-HandsOnCourse"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "05-CaseStudies"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "06-BestPracticesCloud"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "07-DataSources"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "08-InterviewQuestions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "09-BooksAndCourses"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/EJN_training/docs/01-Introduction": "projectsSidebar",
+            "/EJN_training/docs/02-BasicSkills": "projectsSidebar",
+            "/EJN_training/docs/03-AdvancedSkills": "projectsSidebar",
+            "/EJN_training/docs/04-HandsOnCourse": "projectsSidebar",
+            "/EJN_training/docs/05-CaseStudies": "projectsSidebar",
+            "/EJN_training/docs/06-BestPracticesCloud": "projectsSidebar",
+            "/EJN_training/docs/07-DataSources": "projectsSidebar",
+            "/EJN_training/docs/08-InterviewQuestions": "projectsSidebar",
+            "/EJN_training/docs/09-BooksAndCourses": "projectsSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "01-Introduction",
+              "id": "01-Introduction",
+              "isDocsHomePage": false,
+              "title": " ",
+              "description": "Introduction",
+              "source": "@site/docs/01-Introduction.md",
+              "slug": "/01-Introduction",
+              "permalink": "/EJN_training/docs/01-Introduction",
+              "version": "current",
+              "sidebar_label": "Introduction",
+              "sidebar": "projectsSidebar",
+              "next": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/02-BasicSkills"
+              }
+            },
+            {
+              "unversionedId": "02-BasicSkills",
+              "id": "02-BasicSkills",
+              "isDocsHomePage": false,
+              "title": " ",
+              "description": "Basic Data Engineering Skills",
+              "source": "@site/docs/02-BasicSkills.md",
+              "slug": "/02-BasicSkills",
+              "permalink": "/EJN_training/docs/02-BasicSkills",
+              "version": "current",
+              "sidebar_label": "Basic Skills",
+              "sidebar": "projectsSidebar",
+              "previous": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/01-Introduction"
+              },
+              "next": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/03-AdvancedSkills"
+              }
+            },
+            {
+              "unversionedId": "03-AdvancedSkills",
+              "id": "03-AdvancedSkills",
+              "isDocsHomePage": false,
+              "title": " ",
+              "description": "Advanced Data Engineering Skills",
+              "source": "@site/docs/03-AdvancedSkills.md",
+              "slug": "/03-AdvancedSkills",
+              "permalink": "/EJN_training/docs/03-AdvancedSkills",
+              "version": "current",
+              "sidebar_label": "Advanced Skills",
+              "sidebar": "projectsSidebar",
+              "previous": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/02-BasicSkills"
+              },
+              "next": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/04-HandsOnCourse"
+              }
+            },
+            {
+              "unversionedId": "04-HandsOnCourse",
+              "id": "04-HandsOnCourse",
+              "isDocsHomePage": false,
+              "title": " ",
+              "description": "Data Engineering Course: Building A Data Platform",
+              "source": "@site/docs/04-HandsOnCourse.md",
+              "slug": "/04-HandsOnCourse",
+              "permalink": "/EJN_training/docs/04-HandsOnCourse",
+              "version": "current",
+              "sidebar_label": "Hands On Course",
+              "sidebar": "projectsSidebar",
+              "previous": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/03-AdvancedSkills"
+              },
+              "next": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/05-CaseStudies"
+              }
+            },
+            {
+              "unversionedId": "05-CaseStudies",
+              "id": "05-CaseStudies",
+              "isDocsHomePage": false,
+              "title": " ",
+              "description": "Case Studies",
+              "source": "@site/docs/05-CaseStudies.md",
+              "slug": "/05-CaseStudies",
+              "permalink": "/EJN_training/docs/05-CaseStudies",
+              "version": "current",
+              "sidebar_label": "Case Studies",
+              "sidebar": "projectsSidebar",
+              "previous": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/04-HandsOnCourse"
+              },
+              "next": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/06-BestPracticesCloud"
+              }
+            },
+            {
+              "unversionedId": "06-BestPracticesCloud",
+              "id": "06-BestPracticesCloud",
+              "isDocsHomePage": false,
+              "title": " ",
+              "description": "Best Practices Cloud Platforms",
+              "source": "@site/docs/06-BestPracticesCloud.md",
+              "slug": "/06-BestPracticesCloud",
+              "permalink": "/EJN_training/docs/06-BestPracticesCloud",
+              "version": "current",
+              "sidebar_label": "Best Practices Cloud",
+              "sidebar": "projectsSidebar",
+              "previous": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/05-CaseStudies"
+              },
+              "next": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/07-DataSources"
+              }
+            },
+            {
+              "unversionedId": "07-DataSources",
+              "id": "07-DataSources",
+              "isDocsHomePage": false,
+              "title": " ",
+              "description": "100 Plus Data Sources Data Science",
+              "source": "@site/docs/07-DataSources.md",
+              "slug": "/07-DataSources",
+              "permalink": "/EJN_training/docs/07-DataSources",
+              "version": "current",
+              "sidebar_label": "Data Sources",
+              "sidebar": "projectsSidebar",
+              "previous": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/06-BestPracticesCloud"
+              },
+              "next": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/08-InterviewQuestions"
+              }
+            },
+            {
+              "unversionedId": "08-InterviewQuestions",
+              "id": "08-InterviewQuestions",
+              "isDocsHomePage": false,
+              "title": " ",
+              "description": "1001 Data Engineering Interview Questions",
+              "source": "@site/docs/08-InterviewQuestions.md",
+              "slug": "/08-InterviewQuestions",
+              "permalink": "/EJN_training/docs/08-InterviewQuestions",
+              "version": "current",
+              "sidebar_label": "Interview Questions",
+              "sidebar": "projectsSidebar",
+              "previous": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/07-DataSources"
+              },
+              "next": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/09-BooksAndCourses"
+              }
+            },
+            {
+              "unversionedId": "09-BooksAndCourses",
+              "id": "09-BooksAndCourses",
+              "isDocsHomePage": false,
+              "title": " ",
+              "description": "Recommended Books And Courses",
+              "source": "@site/docs/09-BooksAndCourses.md",
+              "slug": "/09-BooksAndCourses",
+              "permalink": "/EJN_training/docs/09-BooksAndCourses",
+              "version": "current",
+              "sidebar_label": "Books And Courses",
+              "sidebar": "projectsSidebar",
+              "previous": {
+                "title": " ",
+                "permalink": "/EJN_training/docs/08-InterviewQuestions"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": null
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/EJN_training/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

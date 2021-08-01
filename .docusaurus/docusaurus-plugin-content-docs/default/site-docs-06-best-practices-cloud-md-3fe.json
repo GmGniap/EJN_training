@@ -1,0 +1,21 @@
+{
+  "unversionedId": "06-BestPracticesCloud",
+  "id": "06-BestPracticesCloud",
+  "isDocsHomePage": false,
+  "title": " ",
+  "description": "Best Practices Cloud Platforms",
+  "source": "@site/docs/06-BestPracticesCloud.md",
+  "slug": "/06-BestPracticesCloud",
+  "permalink": "/EJN_training/docs/06-BestPracticesCloud",
+  "version": "current",
+  "sidebar_label": "Best Practices Cloud",
+  "sidebar": "projectsSidebar",
+  "previous": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/05-CaseStudies"
+  },
+  "next": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/07-DataSources"
+  }
+}

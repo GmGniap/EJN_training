@@ -1,0 +1,17 @@
+{
+  "unversionedId": "01-Introduction",
+  "id": "01-Introduction",
+  "isDocsHomePage": false,
+  "title": " ",
+  "description": "Introduction",
+  "source": "@site/docs/01-Introduction.md",
+  "slug": "/01-Introduction",
+  "permalink": "/EJN_training/docs/01-Introduction",
+  "version": "current",
+  "sidebar_label": "Introduction",
+  "sidebar": "projectsSidebar",
+  "next": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/02-BasicSkills"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "unversionedId": "09-BooksAndCourses",
+  "id": "09-BooksAndCourses",
+  "isDocsHomePage": false,
+  "title": " ",
+  "description": "Recommended Books And Courses",
+  "source": "@site/docs/09-BooksAndCourses.md",
+  "slug": "/09-BooksAndCourses",
+  "permalink": "/EJN_training/docs/09-BooksAndCourses",
+  "version": "current",
+  "sidebar_label": "Books And Courses",
+  "sidebar": "projectsSidebar",
+  "previous": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/08-InterviewQuestions"
+  }
+}

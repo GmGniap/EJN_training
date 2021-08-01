@@ -1,0 +1,68 @@
+{
+  "/EJN_training/-24d": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---ejn-training-5-e-9-46b"
+  },
+  "/EJN_training/__docusaurus/debug-84e": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/EJN_training/__docusaurus/debug/config-15c": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/EJN_training/__docusaurus/debug/content-978": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---ejn-training-docusaurus-debug-content-246-b75"
+  },
+  "/EJN_training/__docusaurus/debug/globalData-acc": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/EJN_training/__docusaurus/debug/metadata-74b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/EJN_training/__docusaurus/debug/registry-205": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/EJN_training/__docusaurus/debug/routes-975": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/EJN_training/docs-721": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---ejn-training-docs-935-293"
+  },
+  "/EJN_training/docs/01-Introduction-040": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---ejn-training-docs-01-introductionf-56-1eb"
+  },
+  "/EJN_training/docs/02-BasicSkills-55b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---ejn-training-docs-02-basic-skills-812-318"
+  },
+  "/EJN_training/docs/03-AdvancedSkills-1e5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---ejn-training-docs-03-advanced-skills-0-a-1-874"
+  },
+  "/EJN_training/docs/04-HandsOnCourse-61a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---ejn-training-docs-04-hands-on-courseb-42-aaa"
+  },
+  "/EJN_training/docs/05-CaseStudies-a47": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---ejn-training-docs-05-case-studiesd-60-1cd"
+  },
+  "/EJN_training/docs/06-BestPracticesCloud-582": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---ejn-training-docs-06-best-practices-cloud-3-fe-66b"
+  },
+  "/EJN_training/docs/07-DataSources-e48": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---ejn-training-docs-07-data-sourcesb-63-308"
+  },
+  "/EJN_training/docs/08-InterviewQuestions-44b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---ejn-training-docs-08-interview-questionsc-12-330"
+  },
+  "/EJN_training/docs/09-BooksAndCourses-988": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---ejn-training-docs-09-books-and-coursesc-02-c21"
+  }
+}

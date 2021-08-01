@@ -1,0 +1,73 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "projectsSidebar": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Data Engineering",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/EJN_training/docs/01-Introduction"
+          },
+          {
+            "type": "link",
+            "label": "Basic Skills",
+            "href": "/EJN_training/docs/02-BasicSkills"
+          },
+          {
+            "type": "link",
+            "label": "Advanced Skills",
+            "href": "/EJN_training/docs/03-AdvancedSkills"
+          },
+          {
+            "type": "link",
+            "label": "Hands On Course",
+            "href": "/EJN_training/docs/04-HandsOnCourse"
+          },
+          {
+            "type": "link",
+            "label": "Case Studies",
+            "href": "/EJN_training/docs/05-CaseStudies"
+          },
+          {
+            "type": "link",
+            "label": "Best Practices Cloud",
+            "href": "/EJN_training/docs/06-BestPracticesCloud"
+          },
+          {
+            "type": "link",
+            "label": "Data Sources",
+            "href": "/EJN_training/docs/07-DataSources"
+          },
+          {
+            "type": "link",
+            "label": "Interview Questions",
+            "href": "/EJN_training/docs/08-InterviewQuestions"
+          },
+          {
+            "type": "link",
+            "label": "Books And Courses",
+            "href": "/EJN_training/docs/09-BooksAndCourses"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/EJN_training/docs/01-Introduction": "projectsSidebar",
+    "/EJN_training/docs/02-BasicSkills": "projectsSidebar",
+    "/EJN_training/docs/03-AdvancedSkills": "projectsSidebar",
+    "/EJN_training/docs/04-HandsOnCourse": "projectsSidebar",
+    "/EJN_training/docs/05-CaseStudies": "projectsSidebar",
+    "/EJN_training/docs/06-BestPracticesCloud": "projectsSidebar",
+    "/EJN_training/docs/07-DataSources": "projectsSidebar",
+    "/EJN_training/docs/08-InterviewQuestions": "projectsSidebar",
+    "/EJN_training/docs/09-BooksAndCourses": "projectsSidebar"
+  }
+}

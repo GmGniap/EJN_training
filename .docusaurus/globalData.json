@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/EJN_training/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/EJN_training/docs",
+          "mainDocId": "01-Introduction",
+          "docs": [
+            {
+              "id": "01-Introduction",
+              "path": "/EJN_training/docs/01-Introduction",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "02-BasicSkills",
+              "path": "/EJN_training/docs/02-BasicSkills",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "03-AdvancedSkills",
+              "path": "/EJN_training/docs/03-AdvancedSkills",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "04-HandsOnCourse",
+              "path": "/EJN_training/docs/04-HandsOnCourse",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "05-CaseStudies",
+              "path": "/EJN_training/docs/05-CaseStudies",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "06-BestPracticesCloud",
+              "path": "/EJN_training/docs/06-BestPracticesCloud",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "07-DataSources",
+              "path": "/EJN_training/docs/07-DataSources",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "08-InterviewQuestions",
+              "path": "/EJN_training/docs/08-InterviewQuestions",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "09-BooksAndCourses",
+              "path": "/EJN_training/docs/09-BooksAndCourses",
+              "sidebar": "projectsSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

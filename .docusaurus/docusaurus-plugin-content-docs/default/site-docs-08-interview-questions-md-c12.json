@@ -1,0 +1,21 @@
+{
+  "unversionedId": "08-InterviewQuestions",
+  "id": "08-InterviewQuestions",
+  "isDocsHomePage": false,
+  "title": " ",
+  "description": "1001 Data Engineering Interview Questions",
+  "source": "@site/docs/08-InterviewQuestions.md",
+  "slug": "/08-InterviewQuestions",
+  "permalink": "/EJN_training/docs/08-InterviewQuestions",
+  "version": "current",
+  "sidebar_label": "Interview Questions",
+  "sidebar": "projectsSidebar",
+  "previous": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/07-DataSources"
+  },
+  "next": {
+    "title": " ",
+    "permalink": "/EJN_training/docs/09-BooksAndCourses"
+  }
+}
