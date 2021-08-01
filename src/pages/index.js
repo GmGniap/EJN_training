@@ -36,14 +36,14 @@ function Home() {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
   return (
-    <Layout title={`Hello from ${siteConfig.title}`} description="">
+    <Layout title={`Hello from ${siteConfig.projectName}`} description="">
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
           <img
             className={styles.mainImage}
             width="700"
             height="350"
-            src="images/chartCover.png"
+            src="images/EJN Logo.png"
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
@@ -55,7 +55,7 @@ function Home() {
               )}
               to={useBaseUrl("docs/01-Introduction")}
             >
-              Read the Cookbook!
+              Start Learning!
             </Link>
           </div>
         </div>

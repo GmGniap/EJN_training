@@ -17,7 +17,7 @@ module.exports = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: "Data Engineering Cookbook",
+      title: "EJN Training",
       logo: {
         alt: "Site Logo",
         src: "images/data.svg", // path with respect to static dir
@@ -35,7 +35,7 @@ module.exports = {
         },
         {
           href: "https://thibi.co/",
-          label: "Thibi Team Website",
+          label: "Thibi Website",
           position: "right",
         },
         {
